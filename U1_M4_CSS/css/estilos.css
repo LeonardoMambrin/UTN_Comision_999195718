@@ -1,0 +1,39 @@
+h1 {
+    background-color: #108E0B;
+    color: #E6E6E3;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(85, 85, 68);
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: crimson;
+    font-size: x-large;
+
+}
+
+#destacado {
+    color: #D80D00;
+    font-size: larger;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(223, 218, 218);
+    width: 400px;
+    height: 300px;
+    padding: 15px;
+    border: 3px solid rgb(184, 40, 40);
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
+.azul {
+    color: rgb(24, 16, 134);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
