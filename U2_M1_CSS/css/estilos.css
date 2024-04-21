@@ -1,0 +1,60 @@
+h1 {
+    background-color: #108E0B;
+    color: #E6E6E3;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(51, 51, 42);
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: crimson;
+    font-size: x-large;
+
+}
+
+/*
+ { font-family: "Nunito Sans", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: <peso>; estilo de fuente: normal; configuración de variación de fuente: "ancho" 100, "YTLC" 500; }
+
+*/
+#destacado {
+    color: #504e4e;
+    font-size: larger;
+    font-weight: 200;
+    font-family: "Nunito Sans", sans-serif;
+    background: radial-gradient(ellipse at center, rgb(227, 115, 103) 0%, rgb(216, 62, 62) 100%);
+    width: 400px;
+    height: 300px;
+    padding: 15px;
+    border: 3px solid rgb(184, 40, 40);
+    box-sizing: border-box;
+    margin-left: 50px;
+    box-shadow: -3px 3px 4px red;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.azul {
+    color: rgb(24, 16, 134);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.texto_columnas {
+    columns: 3;
+    column-gap: 10px;
+}
+
+.texto_columnas p {
+    margin: 10px;
+}
+
+.lapiz_arreglos {
+    margin: 5px;
+    color: rgb(223, 17, 17);
+    font-size: 15px;
+}
